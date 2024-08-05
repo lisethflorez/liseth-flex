@@ -10,5 +10,6 @@ el trabajo de columna se trata de una barra de navegacion y debe tener cuatro el
   y en cada articulo debe tener una imagen y un articulo.
   ## instruciones
   los articulos deben estar distribuidos en una fila con un espacio uniforme entre ellos.
-  
+  ## creador
+  - liseth florez
 
